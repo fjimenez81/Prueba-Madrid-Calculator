@@ -2,9 +2,6 @@
 
 
 body {
-	/* background-image: -moz-radial-gradient(center, circle closest-corner, #353863 0%, #000 100%);
-	background-image: -o-radial-gradient(center, circle closest-corner, #353863 0%, #000 100%);
-	background-image: -webkit-radial-gradient(center, circle closest-corner, #353863 0%, #000 100%); */
 	background: #373B44;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
